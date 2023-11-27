@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "noto-sans-thai";
+    src: url('fonts/notosansthai/notosansthai-Regular.eot');
+    src: url('fonts/notosansthai/notosansthai-Regular.eot') format('embedded-opentype'),
+         url('fonts/notosansthai/notosansthai-Regular.woff2') format('woff2'),
+         url('fonts/notosansthai/notosansthai-Regular.woff') format('woff'),
+         url('fonts/notosansthai/notosansthai-Regular.ttf') format('truetype');
+  }
